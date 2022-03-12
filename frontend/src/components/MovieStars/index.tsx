@@ -40,7 +40,7 @@ function getFills(score: number) {
           return <StarFull />
       }
       else {
-          return <StarEmpty />
+          return <StarHalf />
       }
   }
 
